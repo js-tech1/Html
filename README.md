@@ -44,6 +44,19 @@ Ans->
 			<td>
 				
 	&emsp;A. what is ```<title>``` tag? why we use ?
+				</td>
+		</tr><br>
+				<tr>
+					<td>
+						```<!DOCTYPE html>
+<html>
+<head>
+	<title>my first website</title>
+</head>
+<body>
+
+</body>
+</html>```
 				
 
 
