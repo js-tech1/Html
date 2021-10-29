@@ -38,26 +38,31 @@ Ans->
 6.<strong> what is ```<head>``` tag ? why we use and it's important?</strong> <br>
  Ans-> The HTML ```<head>``` element is a container for the following elements: ```<title>, <style>, <meta>, <link>, <script>, and <base>```.
 	<br>
-	<br>	
+	<br>				
+	<p style="background-color: red">A. what is ```<title>``` tag? why we use ?</p>
+	
+*********************************************************************************************************************************************************************************
+Example.	
 	<table>
-		<tr>
-			<td>
-				
-	&emsp;A. what is ```<title>``` tag? why we use ?
-				</td>
-		</tr><br>
-				<tr>
-					<td>
-						```<!DOCTYPE html>
-<html>
-<head>
+	<tr>
+		<th>
+	
+		<!DOCTYPE html>
+
+	<html>
+
+	<head>
 	<title>my first website</title>
-</head>
-<body>
 
-</body>
-</html>```
-				
+	</head>
 
+	<body>
+
+	</body>
+	</html>
+	
+		</th>
+	</tr>
+*********************************************************************************************************************************************************************************
 
  
