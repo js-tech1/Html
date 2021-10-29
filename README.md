@@ -47,7 +47,7 @@ Example.
 ```<!DOCTYPE html>
 <html>
 <head>
-	<title style="background-color: red">my first website</title>
+	<title>my first website</title>
 </head>
 <body>
 
