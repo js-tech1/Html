@@ -12,7 +12,7 @@ Ans-> used to tell your web browser what each part of a website is. So, using HT
 3. how to write Html code?(basic structure of code)<br>
 Ans->
 	```language
-		<!DOCTYPE html>
+	<!DOCTYPE html>
 
 	<html>
 
@@ -29,5 +29,4 @@ Ans->
 
 
 
-***********************************************************************************************************************************************************************************
  4. 
