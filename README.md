@@ -33,6 +33,6 @@ Ans->
  4. What is <!DOCTYPE html> ? Why we need to Declare? and why this important? <br>
  Ans-> ```<!DOCTYPE html>```  is not an HTML tag. It is an "information" to the browser about what document type to expect.
  ********************************************************************************************************************************************************************************
- 5. what is ```<html>``` tag?  why we neet declare and it's important?
- -> ```<html>``` tag is represent as html document.
+ 5. what is ```<html>``` tag?  why we neet declare and it's important?<br>
+ Ans-> ```<html>``` tag is represent as html document.
  
