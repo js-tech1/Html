@@ -96,5 +96,5 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 		
 <strong>Output:-</strong>
 <br>
-<img src="body_pr.png">
+<img src="body_pr1.png">
 		
