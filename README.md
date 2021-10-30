@@ -58,4 +58,22 @@ Example.
 		
 *********************************************************************************************************************************************************************************
 
- 
+ 7. What is <body> tag? whyy we need to type?<br>
+Ans-> The <body> element contains all the contents of an HTML document.<br>
+	<img src="body.png"><br>
+		<br>
+		<br>
+Example.
+```example
+<!DOCTYPE html>
+<html>
+<head>
+<title style="background-color: red">my first website</title>
+</head>
+<body>
+	<h1>this is my first website</h1>
+	<img src="type image path"><br>
+	<a href="type here you want">click here</a>
+</body>
+</html>
+```		
