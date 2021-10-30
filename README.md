@@ -68,11 +68,11 @@ Example.
 <!DOCTYPE html>
 <html>
 <head>
-<title style="background-color: red">my first website</title>
+<title>my first website</title>
 </head>
 <body>
 	<h1>this is my first website</h1>
-	<img src="type image path"><br>
+	<img src="js-tech1 logo.png"><br>
 	<a href="type here you want">click here</a>
 </body>
 </html>
