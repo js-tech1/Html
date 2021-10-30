@@ -88,10 +88,13 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 </head>
 <body>
 	<h1>this is my first website</h1>
-	<img src="C:\Users\Iant Maninagar\Downloads\logo.png.png" height="200px" width="200px"><br>
-	<a href="https://github.com/js-tech1/Html.git">click here</a>
+	<img src="C:\Users\js-tech1\Downloads\logo.png.png" height="200px" width="200px"><br>
+	<a href="https://github.com/js-tech1/Html.git"><strong>click here</strong></a> <!-- <strong> tag is use for bold text and <br> is use for break line. you type <br> in every line than every things comeing in new lines-->
 </body>
 </html>
 ```
 		
+<strong>Output:-</strong>
+<br>
+<img src="body_pr.png">
 		
