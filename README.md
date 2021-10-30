@@ -42,7 +42,7 @@ Ans->
 	<p style="background-color: red">A. what is ```<title>``` tag? why we use ?</p>
 	
 *********************************************************************************************************************************************************************************
-Example.	
+<strong>Example.</strong>	
 		
 ```<!DOCTYPE html>
 <html>
@@ -58,12 +58,13 @@ Example.
 		
 *********************************************************************************************************************************************************************************
 
- 7. What is <body> tag? whyy we need to type?<br>
+7. <strong>What is <body> tag? whyy we need to type?</strong><br>
 Ans-> The <body> element contains all the contents of an HTML document.<br>
 	<img src="body.png"><br>
 		<br>
 		<br>
-Example.
+*********************************************************************************************************************************************************************************
+<strong>Example.</strong>
 ```example
 <!DOCTYPE html>
 <html>
@@ -72,8 +73,25 @@ Example.
 </head>
 <body>
 	<h1>this is my first website</h1>
-	<img src="js-tech1 logo.png"><br>
+	<img src="type image path"><br>
 	<a href="type here you want">click here</a>
 </body>
 </html>
-```		
+```	
+*******************************************************************************************************************************************************************************		
+<strong>Program 1:</strong>
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>my first website</title>
+</head>
+<body>
+	<h1>this is my first website</h1>
+	<img src="C:\Users\Iant Maninagar\Downloads\logo.png.png" height="200px" width="200px"><br>
+	<a href="https://github.com/js-tech1/Html.git">click here</a>
+</body>
+</html>
+```
+		
+		
