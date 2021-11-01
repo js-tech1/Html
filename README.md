@@ -135,3 +135,13 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 <br>
 <br>
 <img src="demo.png">
+		
+******************************************************************************************************************************************************************
+		
+<ul>
+<strong>
+<li> <h1> to <h6> tag is use to heading for peregraph or web site peregraph</li>
+<li>Example 2</li>
+<li>Example 3</li>
+</strong>
+</ul>
