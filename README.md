@@ -74,7 +74,7 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 <body>
 	<h1>this is my first website</h1>
 	<img src="type image path"><br>
-	<a href="type here you want">click here</a>
+	<a href="type here you want link">click here</a>
 </body>
 </html>
 ```	
@@ -131,4 +131,7 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 <br>
 		
 <strong>Output:-</strong>
+<br>
+<br>
+<br>
 <img src="demo.png">
