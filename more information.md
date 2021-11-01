@@ -25,5 +25,5 @@ To start a new HTML page, first create a new file in Sublime Text and save it wi
 
 ********************************************************************************************************************************************************************
 
-we have multiiple choice for code editor .....
+we have multiiple choice for code editor ....
 
