@@ -8,7 +8,7 @@
 Ans-> used to tell your web browser what each part of a website is. So, using HTML, you can define headers, paragraphs, links, images, and more, so your browser knows how to structure the web page you're looking at.
  
 *********************************************************************************************************************************************************************************
-3. <strong>how to write Html code?(basic structure of code)</strong><br>
+3. <strong>how to write Html code?(basic structure of code)<p>⏩⏩for more information of code Editor Please<a href="more_information.md">Click Here</a></p></strong><br>
 Ans->
 	```language
 		<!DOCTYPE html>
