@@ -99,4 +99,27 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 <img src="body_pr1.png">
 		
 ******************************************************************************************************************************************************************
-		
+
+<strong>• some Basic tags in Html. we understand with simple program.</strong>
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Demo website</title>
+</head>
+<body>
+    <h1>thist is for heading</h1>
+    <h2>thist is for heading</h2>
+    <h3>thist is for heading</h3>
+    <h4>thist is for heading</h4>
+    <h5>thist is for heading</h5>
+    <h6>thist is for heading</h6>
+
+    <p style="color:red; background-color: black;">this is for write pregraph... you can type any peregraph and style tag is use for giving style to peregraph</p>
+    <img src="logo.png" alt="logo.png" height="200px" width="200px">
+    <br>
+    <br>
+    <a href="https://github.com/js-tech1/Html" style="background-color:black;color: red;">Click Here</a>
+</body>
+</html>
+```
