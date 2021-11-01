@@ -123,3 +123,12 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 </body>
 </html>
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+		
+<strong>Output:-</strong>
+<img src="demo.png">
