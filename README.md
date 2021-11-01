@@ -101,7 +101,7 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 ******************************************************************************************************************************************************************
 
 <strong>• some Basic tags in Html. we understand with simple program.</strong>
-```
+``` languague
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,6 +123,7 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 </body>
 </html>
 ```
+```
 <br>
 <br>
 <br>
@@ -135,9 +136,9 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 <br>
 <br>
 <img src="demo.png">
-		
+```	
 ******************************************************************************************************************************************************************
-		
+```		
 <ul>
 <strong>
 <li> <h1> to <h6> tag is use to heading for peregraph or web site peregraph</li>
@@ -145,3 +146,4 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
 <li>Example 3</li>
 </strong>
 </ul>
+```
