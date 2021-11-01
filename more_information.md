@@ -8,7 +8,7 @@ To start a new HTML page, first create a new file in Sublime Text and save it wi
 ⏩ .<strong> How to type code in Editor?</strong><br>
 ⚪ Press Windows key -> search your Editor and press enter-> open Editor
 
-⏩ . <strong>How to open new file in Editor?</strong><br>
+⏩ . <strong>How to open new file in Editor?(vs code)</strong><br>
 ⚪ . <img src="new.png">
 <br>
 ********************************************************************************************************************************************************************
