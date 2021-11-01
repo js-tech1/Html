@@ -1,4 +1,4 @@
-1. <strong>Where to type code? (for windows)</strong><br>
+1. <strong>Where to type code? </strong><br>
 Ans:- we have many choice whre we want to type code for Example.. we have subline, vs code, notepad, notepad++, Bootstrap Studio etc... <br>
 
 
