@@ -144,4 +144,5 @@ Ans-> The <body> element contains all the contents of an HTML document.<br>
  • ```<img>``` tag is use for show image on website and ```src=" "``` is use for image source you need to type image path where image store<br>
  • ```alt=" "``` image not showing in website that time we can use ```alt``` tag
 <hr>
-		
+
+
